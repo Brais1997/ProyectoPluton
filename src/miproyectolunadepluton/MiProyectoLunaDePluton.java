@@ -15,7 +15,8 @@ public class MiProyectoLunaDePluton {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        int b=5;
+        System.out.print("3+2 =" + b);
     }
     
 }
